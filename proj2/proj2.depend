@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1527836667 source:c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\main.cpp
+	<iostream>
+	<string>
+	"Applicant.h"
+	"GenApp.h"
+	"queue"
+	"Test.h"
+
+1527573736 source:c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\test.cpp
+
+1527578674 source:c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\applicant.cpp
+	<iostream>
+	<string>
+	"Applicant.h"
+
+1527754634 c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\applicant.h
+	"queue.h"
+	"queueItem.h"
+	<iostream>
+	<string>
+
+1527758405 c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\genapp.h
+	<iostream>
+	<string>
+	"queue"
+
+1527754182 c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\queue.h
+	"Applicant.h"
+	"queueItem.h"
+	"Applicant.h"
+	"queueItem.h"
+	<iostream>
+	<string>
+
+1527754500 c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\queueitem.h
+	"Applicant.h"
+	"queue.h"
+	"Applicant.h"
+	"queue.h"
+	<iostream>
+	<string>
+	"Applicant.h"
+
+1527747537 source:c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\queue.cpp
+	<iostream>
+	"Queue.h"
+	"QueueItem.h"
+
+1527837269 c:\users\jeffrey\documents\my programs\cptr242\homework\proj02\proj2\test.h
+	<iostream>
+	<string>
+	"Applicant.h"
+	"queue"
+
