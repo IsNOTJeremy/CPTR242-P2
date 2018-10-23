@@ -1,3 +1,4 @@
+#This is the second project in my CPTR 242 course that I took last year.
 # CPTR 242: Project #2
 
 ## Problem Overview
